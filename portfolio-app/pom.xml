@@ -44,11 +44,11 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/technology/babel/update-site/R0.10.1/indigo</url>
 		</repository>
-		<repository>
+<!--		<repository>
 			<id>p2-bandlem</id>
 			<layout>p2</layout>
 			<url>http://github.bandlem.com/</url>
-		</repository>
+		</repository> -->
 		<repository>
 			<id>com.springsource.repository.bundles.release</id>
 			<name>SpringSource Enterprise Bundle Repository - SpringSource Bundle Releases</name>
